@@ -5,4 +5,4 @@
 - Clone this repository to follow the notebook files in this class
 - You can view the notebooks on Github
 
-*James Sharpnack, Copywrite 2018, for all material in this repository
+*James Sharpnack, Copyright 2018, for all material in this repository
